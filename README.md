@@ -1,4 +1,4 @@
-<a href="https://vrushabd.github.io/tictictoe-game/"><h1>Demo</h1></a>
+<a href="https://vrushabd.github.io/tictictoe-game/">Demo</a>
 
 
 # Tic-Tac-Toe Web Game 🎮
