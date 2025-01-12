@@ -50,6 +50,7 @@ boxes.forEach((box, index) => {
         }
 
         if (!board.includes(null)) {
+            winnerDisplay.style.visibility = "visible"
             winnerDisplay.textContent = "It's a Tie!";
             gameActive = false;
             return;
