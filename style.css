@@ -57,6 +57,13 @@
    
 
 }
+@media (max-width:450px){
+ 
+ #player{
+      width: 350px;
+      position: absolute;
+      left: 20px;
+ }
 input{
    height: 40px;
    width: 150px;
