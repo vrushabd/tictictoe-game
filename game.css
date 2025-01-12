@@ -76,9 +76,7 @@ border-radius: 19px;
         flex-direction: column;
         
     }
-    #one{
-        font-weight: lighter;
-    }
+ 
     #main{
         height: 300px;
         width: 300px;
